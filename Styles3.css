@@ -1,0 +1,23 @@
+body {
+    font-size: 24px;
+}
+p.red {
+    color:red;
+}
+p.green{
+    color:green;
+}
+li.green {
+    color:green;
+}
+li.red {
+    color:red;
+}
+li.blue {
+    color:blue;
+p.курсив {
+    font-weight: italic;
+}
+p.bold {
+    font-style: bold;
+}

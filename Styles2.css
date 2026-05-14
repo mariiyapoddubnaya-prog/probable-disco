@@ -1,0 +1,47 @@
+body {
+    font-size: 24px;
+}
+li.red {
+    color: red;
+}
+li.green {
+    color: green;
+p.полужирный }
+{
+    font-style: italic;}
+p.полужирный {
+    font-style: italic;
+}
+li.brown {
+    color: brown;
+}
+li.blue {
+    color: blue;
+}
+span.small {
+    font-size: 15px;
+}
+span.xlarge {
+    font-size: 60px;
+}
+span.large {
+    font-size: 40px;
+}
+span.medium {
+    font-size: 20px;
+}
+span.small {
+    font-size: 10px;
+}
+span.smaler {
+    font-size: 02px;
+}
+span.xxlarge {
+    font-size: 70px;
+}
+p.red {
+    color: red;
+}
+p.red {
+    color: red;
+}
